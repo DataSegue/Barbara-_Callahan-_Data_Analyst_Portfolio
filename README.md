@@ -8,8 +8,9 @@ Data Analyst Portfolio showcasing SQL Trends Analysis And Tableau dashboard on c
 ## 📊 Project 1: New & Used Car Price Trends
 - **Tools**: SQL, Tableau  
 - **Goal**: Analyze pricing trends by car make & model  
-- **SQL Work**: [depreciation_analysis.sql](depreciation_analysis.sql)  
-- **Dashboard**: [View Tableau Dashboard](https://public.tableau.com/views/YourDashboardLink)  
+- **SQL Work**: [Car Sale Trend](car_sale_trend_analysis.sql)
+- **Dashboard**: [View Tableau Dashboard]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/views/CARSALEDASHBOARD_17564330765520/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+))  
 - **Key Insights**:
 -Higher earning dealers average higher due to higher priced luxury brands
 - Economy models retain value and mileage
