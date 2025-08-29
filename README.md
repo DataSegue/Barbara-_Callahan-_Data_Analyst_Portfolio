@@ -13,5 +13,5 @@ Data Analyst Portfolio showcasing SQL Trends Analysis And Tableau dashboard On C
  
 - **Key Insights**:
   
--Higher earning dealers average higher due to higher priced luxury brands
+- Higher earning dealers average higher due to higher priced luxury brands
 - Economy models retain value and mileage
