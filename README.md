@@ -11,5 +11,5 @@ Data Analyst Portfolio showcasing SQL Trends Analysis And Tableau dashboard on c
 - **SQL Work**: [depreciation_analysis.sql](depreciation_analysis.sql)  
 - **Dashboard**: [View Tableau Dashboard](https://public.tableau.com/views/YourDashboardLink)  
 - **Key Insights**:
--Higher earning dealers average hiher due to hihger price luxury brands
+-Higher earning dealers average higher due to higher priced luxury brands
 - Economy models retain value and mileage
