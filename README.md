@@ -5,7 +5,7 @@ Data Analyst Portfolio showcasing SQL Trends Analysis And Tableau dashboard On C
 
 # Data Analyst Portfolio 🚀
 
-## 📊 Project 1: New & Used Car Price Trends
+## 📊 Project 1: New & Used Cars Price Trends
 - **Tools**: SQL, Tableau  
 - **Goal**: Analyze pricing trends by car make & model  
 - **SQL Work**: [Car Sale Trend](car_sale_trend_analysis.sql)
