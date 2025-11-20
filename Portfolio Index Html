@@ -1,4 +1,4 @@
-      <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,7 +9,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background: url('link in back ground png.png') repeat;
+      background: #f5f5f5;
       background-size: cover;
       color: #333;
     }
@@ -78,7 +78,7 @@
     <a href="#projects">Projects</a>
     <a href="#sql">SQL Samples</a>
     <a href="#videos">Videos</a>
-    <a href="resume.pdf" download>Download Résumé</a>
+    <a href="your_INSERT_YOUR_RESUME_FILENAME.pdf" download>Download Résumé</a>
   </nav>
 
   <header id="home">
@@ -94,12 +94,15 @@
         <h3>🚗 Car Sales Analysis (Project 1)</h3>
         <p>This is my first full project including database creation, ETL, forecasting, dashboards, and reporting.</p>
         <img src="car_sales_dashboard.png" alt="Car Sales Dashboard">
-        <p><strong>Videos for this project:</strong></p>
+
+        <h3>📊 Interactive Tableau Dashboard</h3>
+        <iframe src="YOUR_TABLEAU_PUBLIC_LINK_HERE" width="100%" height="600"></iframe>
+        <p><a href="YOUR_TABLEAU_PUBLIC_LINK_HERE" target="_blank">View on Tableau Public</a></p>
+
+        <h3>🎥 Full Project Tutorial Video</h3>
+        <p>Watch my complete end‑to‑end tutorial breaking down data cleaning, forecasting, SQL development.</p>
         <video controls>
-          <source src="car_sales_tutorial_1.mp4" type="video/mp4">
-        </video>
-        <video controls>
-          <source src="car_sales_tutorial_2.mp4" type="video/mp4">
+          <source src="https://youtu.be/GQ-F31nBV7w" type="video/mp4">
         </video>
       </div>
 
@@ -120,17 +123,20 @@ SELECT
   split_part(raw_string, ' ', 3) AS model
 FROM car_sales_staging;
       </pre>
+      <p><a href="FULL_SQL_CODE_DOWNLOAD.sql" download>📥 Download Full SQL Code</a></p>
     </section>
 
     <section id="videos">
-      <h2>🎥 Full Project Tutorial Videos</h2>
-      <p>Below are complete project walkthroughs from beginning to end.</p>
+      <h2>📺 Full Project Tutorial Video</h2>
+      <p>Watch my complete end‑to‑end tutorial breaking down data cleaning, forecasting, SQL development.</p>
       <video controls>
-        <source src="tutorial_video_1.mp4" type="video/mp4">
+        <source src="https://youtu.be/GQ-F31nBV7w" type="video/mp4">
       </video>
-      <video controls>
-        <source src="tutorial_video_2.mp4" type="video/mp4">
-      </video>
+    </section>
+
+    <section id="coming-soon">
+      <h2>🔜 More Projects Coming Soon</h2>
+      <p>Additional data projects are currently in development and will be added here.</p>
     </section>
 
   </div>
@@ -145,8 +151,7 @@ FROM car_sales_staging;
     <h2 class="text-3xl font-bold mb-4 text-center">Interactive Tableau Dashboard</h2>
     <p class="text-center mb-6">Explore the dashboard directly below or open it on Tableau Public.</p>
     <div class="w-full h-[700px]">
-      <iframe src="    - [ ] 
-"https://public.tableau.com/views/Book1_17556610621190_17563539515870/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width="100%" height="700" frameborder="0" allowfullscreen></iframe>
+      <iframe src="    - [ ] "https://public.tableau.com/views/Book1_17556610621190_17563539515870/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width="100%" height="700" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="text-center mt-4">
       <a href="    - [ ] "https://public.tableau.com/views/Book1_17556610621190_17563539515870/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" class="text-blue-700 underline text-lg">Open Full Dashboard on Tableau Public</a>
@@ -163,4 +168,3 @@ FROM car_sales_staging;
   </section>
 </body>
 </html>
-                                                                                                                                          
